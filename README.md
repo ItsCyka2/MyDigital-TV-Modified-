@@ -6,12 +6,12 @@ This repository contains a **modified version** of the original [MyDigital TV](h
   - Updated the Channel Logo
 
 ## More Notes:
- - Changing the video from .mtv to .mp4
+ - Changing the video format from .mtv to .mp4
 
 
 ## Original Repository
 The original version of this project is available at:  
-[MyDigital TV on GitHub](https://www.myphone.com.ph/product/myphone-dtv-dongle/).
+[MyPhone.com.ph.](https://www.myphone.com.ph/product/myphone-dtv-dongle/).
 
 ## License
 This project is distributed under the same license as the original repository. Please review the license details in the [LICENSE](LICENSE) file for more information.
