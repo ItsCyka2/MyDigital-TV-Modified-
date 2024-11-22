@@ -5,9 +5,13 @@ This repository contains a **modified version** of the original [MyDigital TV](h
 ## Key Modifications
   - Updated the Channel Logo
 
-## More Notes:
- - Changing the video format from .mtv to .mp4
+## Needed to do:
+ - Changing the recorded files from .mtv to .mp4
+ - Adding TV Channel Logo from other countries.
 
+## Notes:
+ - This app will only work for MyPhone MyDigital TV Digital Dongle.
+ - There will be some bugs on this app but i will fix it as soon as possible.
 
 ## Original Repository
 The original version of this project is available at:  
