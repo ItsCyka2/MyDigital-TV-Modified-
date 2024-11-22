@@ -36,7 +36,7 @@ Yes, the tuner supports live TV recording through the companion app, as long as 
 
 ## Needed to do:
  - Changing the format of recorded files from .mtv to .mp4
- - Adding TV Channel Logo from
+ - Adding TV Channel Logo from other countries
 
 ## Notes:
  - This app will only work for MyPhone MyDigital TV Digital Dongle.
