@@ -1,9 +1,14 @@
 # MyDigital TV (Modified Version)
 
-This repository contains a **modified version** of the original [MyDigital TV](https://www.myphone.com.ph/product/myphone-dtv-dongle/) DTV Tuner for Android. The modifications aim to enhance functionality, improve user experience, and adapt the project to specific requirements.
+This repository contains a **modified version** of the original APK of [MyDigital TV](https://www.myphone.com.ph/product/myphone-dtv-dongle/) DTV Tuner for Android. The modifications aim to enhance functionality, improve user experience, and adapt the project to specific requirements.
 
-## Key Modifications
-  - Updated the Channel Logo
+# How to work the app?
+ You must have the DTV Dongle from MyPhone to work and watch your local DTV Stations.
+
+### Does the tuner work with ATSC or ATSC 3.0?  
+No, the MyDigital TV tuner does not support ATSC or ATSC 3.0. It is designed to work with the following standards:
+- **ISDB-T**: Used in regions like the Philippines, Japan, and parts of South America.  
+- **DVB-T**: Common in Europe, Africa, and parts of Asia.  
 
 ## Needed to do:
  - Changing the recorded files from .mtv to .mp4
