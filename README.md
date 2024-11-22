@@ -4,6 +4,7 @@ This repository contains a **modified version** of the original APK of [MyDigita
 
 # How to work the app?
  You must have the DTV Dongle from MyPhone to work and watch your local DTV Stations.
+#
 
 ### Does the tuner work with ATSC or ATSC 3.0?  
 No, the MyDigital TV tuner does not support ATSC or ATSC 3.0. It is designed to work with the following standards:
