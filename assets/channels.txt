@@ -1,0 +1,171 @@
+503
+12352
+CNN Philippines
+
+503
+12376
+CNN Philippines_2
+
+503
+312
+CNN_OneSeg
+
+521
+275
+HSN+D
+
+521
+6
+ETC+D
+
+521
+7
+CH40-SMNI HD1
+
+521
+8
+2NDAVENUE+D
+
+533
+1108
+ABS_CBN Oneseg
+
+551
+96
+GMA
+
+551
+97
+GNTV
+
+551
+99
+GMA 1SEG
+
+581
+61440
+ShopTV on BEAM
+
+581
+61441
+OShopping on BEAM
+
+581
+61442
+TVShop on BEAM
+
+581
+61443
+Shop Japan on BEAM
+
+581
+61444
+Pilipinas HD on BEAM
+
+581
+61445
+Inquirer 990 on BEAM
+
+581
+61446
+Island Living on BEAM
+
+581
+61464
+BEAM 1Seg
+
+617
+2624
+UNTV 1
+
+617
+2625
+UNTV 2
+
+617
+2626
+ADDTV
+
+617
+2648
+UNTV 1SEG
+
+629
+2
+SMNI
+
+641
+33216
+PTV SD1
+
+641
+33217
+PTV SD2
+
+641
+33218
+PTV SD3
+
+641
+33240
+PTV 1SEG
+
+647
+1101
+ABS_CBN
+
+647
+1102
+SPORTS+ACTION
+
+647
+1103
+CINEMO!
+
+647
+1104
+YEY!
+
+647
+1105
+Knowledge Channel
+
+647
+1106
+DZMM Teleradyo
+
+647
+1107
+KBO
+
+647
+1108
+ABS_CBN Oneseg
+
+653
+101
+Hope Phil HD
+
+653
+102
+3ABN
+
+653
+103
+Hope Intl
+
+695
+161
+TV5
+
+695
+162
+CH33-Light Network 1seg
+
+695
+163
+TRUTH CHANNEL
+
+695
+188
+CH05-TV5 1SEG
